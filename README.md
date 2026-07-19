@@ -1,4 +1,4 @@
-<p align="center"><img width="2800" height="700" alt="waterfall" src="https://github.com/user-attachments/assets/0b5031bf-ce36-44fe-87eb-39f692b6d024"style="background-color: transparent /></p>
+<p align="center"><img width="2800" height="700" alt="waterfall" src="https://github.com/user-attachments/assets/0b5031bf-ce36-44fe-87eb-39f692b6d024"style="background-color: transparent !important;" /></p>
 <p align="center"><i>The Angel... The One Who Has Seen The Surface...
 They will return. And the underground will go empty.</i></p>
 
